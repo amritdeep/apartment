@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="13410" started-at="2017-06-15T18:29:31Z" finished-at="2017-06-15T18:29:44Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="13410" started-at="2017-06-15T18:29:31Z" finished-at="2017-06-15T18:29:44Z">
+      <class name="com.apartment.LoadTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.apartment.LoadTest@79b4d0f]" name="setUp" is-config="true" duration-ms="7121" started-at="2017-06-15T13:29:31Z" finished-at="2017-06-15T13:29:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoad()[pri:0, instance:com.apartment.LoadTest@79b4d0f]" name="testLoad" duration-ms="6199" started-at="2017-06-15T13:29:38Z" finished-at="2017-06-15T13:29:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoad -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.apartment.LoadTest@79b4d0f]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-06-15T13:29:44Z" finished-at="2017-06-15T13:29:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.apartment.LoadTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
